@@ -125,5 +125,12 @@ _How to address the problem:_
 The above user stories, personas and scenarios have been added as a comment on the GitHub issue. The below screenshot does not show the entire comment, but all of the above content is on the comment. The issue is closed with the comment.
 [s1issue2comment.jpg]
 
+[s1issue2closed.JPG]
+
+A new GitHub milestone has been created to act as the product backlog. The above user stories are documented within the backlog. Their respective solutions to their scenario problems have been added to their descriptions.
+
+
+
+### Issue 3: Set up MongoDB Database
 
 
