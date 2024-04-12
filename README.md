@@ -134,6 +134,8 @@ _See Issues -> Milestones -> Product Backlog_
 
 ### Issue 3: Set up MongoDB Database
 
+![image](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/cfc1a216-42c7-403e-b5e9-c0f9cb25f2a1)
+
 A database named ‘TableMaster’ has been set up on MongoDB with two collections. One collection is for the end-users of the program, and the other is for the tables of the restaurant.
 
 [s1issue3db.jpg]
