@@ -142,8 +142,40 @@ _See Issues -> Milestones -> Product Backlog_
 
 ![Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/cfc1a216-42c7-403e-b5e9-c0f9cb25f2a1)
 
-A database named ‘TableMaster’ has been set up on MongoDB with two collections. One collection is for the end-users of the program, and the other is for the tables of the restaurant.
+A database named ‘TableMaster’ has been set up on MongoDB with not only a collection for the end-users of the program, but also a second collection for the tables of the restaurant, as per the needs of the user stories.
 
 ![Sprint 1 Issue 3 DB](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/add940cd-5d68-494d-b624-45f7795f4e67)
+
+Within the ‘users’ collection, two sample users have been created, one for each type of end-user. Below is the data for both sample users created based on their personas, scenarios and user stories.
+
+_Customer_
+
+![Sample User 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/04610c0b-aca2-4be8-b391-e913c8bd731b)
+
+_Staff_
+
+![Sample User 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/7af418d4-c5bf-4928-8f40-cd940d386ac2)
+
+Notes:
+* Both users have a 'login' object with the parameters that will be used as their login information.
+* Customers have object arrays for upcoming reservations for active booking purposes. There are also object arrays for past reservations for customer analytics purposes.
+* Upcoming/Previous reservation objects will have notes that customers may choose to add upon booking their reservation. Customers may enter preferences or anything else that they'd like to inform their waiting staff.
+* Upcoming/Previous reservation objects will have duration elements, which are two date values set to UTC time.
+* Staff have little information stored in their database documents since they are admin users. 
+
+Within the ‘tables’ collection, ten sample tables were created. Below are screenshots of three of them.
+
+![Sample Table 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/26f3e77f-63c4-4d05-a679-4c67f3bfe213)
+![Sample Table 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/5caeb2e7-8b3c-4ffe-a535-9cb850fa8eb0)
+![Sample Table 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/2cd34b79-c750-4657-8aad-8a5bea9478cc)
+
+Notes:
+* Tables have a minimum and maximum capacity.
+* Tables have tags dictating what type of tables they are (i.e. booth seating, next to window, round/square tables, outdoor, etc.). These are included for the sake of customer preference.
+* Tables have an object array for upcoming reservations which are very similar in data to that which customers have. These are also used for active booking purposes.
+
+With the database set up with sample data in place, this issue can be closed as complete.
+
+
 
 
