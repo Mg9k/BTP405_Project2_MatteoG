@@ -129,8 +129,12 @@ The above user stories, personas and scenarios have been added as a comment on t
 
 A new GitHub milestone has been created to act as the product backlog. The above user stories are documented within the backlog. Their respective solutions to their scenario problems have been added to their descriptions.
 
-
+[backlog.jpg]
+_See Issues -> Milestones -> Product Backlog_
 
 ### Issue 3: Set up MongoDB Database
 
+A database named ‘TableMaster’ has been set up on MongoDB with two collections. One collection is for the end-users of the program, and the other is for the tables of the restaurant.
+
+[s1issue3db.jpg]
 
