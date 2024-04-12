@@ -4,22 +4,26 @@
 Scrum is implemented through GitHub’s issues and milestones. They will be visible within this repository but screenshots will shown here as documentation.
 
 ## Sprint 1: Project Preparation
-[sprint1.jpg]
+![Sprint 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/1f639b6e-5149-45c5-8eef-c454dba1a09b)
+
 _See Issues -> Milestones -> Sprint 1_
 
 ### Issue 1: Product Vision
-[s1issue1.jpg]
+![Sprint 1 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/dae092b4-24b7-470a-b4ff-e2464d835c7c)
+
 The product vision will be used to get a better idea at how the final product is meant to work.
 
 #### Product Vision
 _For_ restaurant managers and owners _who_ want to easily manage customer reservations for their restaurant, _the **TableMaster** is a_ restaurant reservation system _that_ allows customers to make and manage their reservations online. _Unlike_ other restaurant reservation systems such as OpenTable, TableMaster is made with user-friendliness in mind, allowing for ease of use and control over reservations for both customers and restaurant staff. _Our product_ offers an interface for staff to view and manage booking availability, customer information, and receive notifications about new reservations or updates to existing reservations.
 
 The above product vision has been added as a comment on the issue, and the issue, having been therefore completed, has been closed.
-[s1issue1closed.jpg]
+![Sprint 1 Issue 1 Closed](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/3322c6b6-c5bc-4d89-8a57-049358d212d1)
+
 
 ### Issue 2: Develop User Stories, Personas and Scenarios
 
-[s1issue2.jpg]
+![Sprint 1 Issue 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/a0469fd8-366e-4520-aa96-9d4b89338c85)
+
 Making sample personas, scenarios and stories will help in understanding the needs of the product’s end users so that the finished product may meet those needs.
 
 #### User Stories, Personas and Scenarios
@@ -123,13 +127,15 @@ _How to address the problem:_
 - Staff should be able to access an archive of previous reservations for customer analytics purposes.
 
 The above user stories, personas and scenarios have been added as a comment on the GitHub issue. The below screenshot does not show the entire comment, but all of the above content is on the comment. The issue is closed with the comment.
-[s1issue2comment.jpg]
+![Sprint 1 Issue 2 Comment](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/a2ba1bc1-f7d5-441a-81e4-981abad6e1c3)
 
-[s1issue2closed.JPG]
+![Sprint 1 Issue 2 Closed](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/d39df0bd-9cf5-46b2-9de3-b1439fc1ac84)
+
 
 A new GitHub milestone has been created to act as the product backlog. The above user stories are documented within the backlog. Their respective solutions to their scenario problems have been added to their descriptions.
 
 ![Product Backlog](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/4c9fa5ec-9029-4b9c-bcf7-53e254e87305)
+
 _See Issues -> Milestones -> Product Backlog_
 
 ### Issue 3: Set up MongoDB Database
@@ -138,5 +144,6 @@ _See Issues -> Milestones -> Product Backlog_
 
 A database named ‘TableMaster’ has been set up on MongoDB with two collections. One collection is for the end-users of the program, and the other is for the tables of the restaurant.
 
-[s1issue3db.jpg]
+![Sprint 1 Issue 3 DB](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/add940cd-5d68-494d-b624-45f7795f4e67)
+
 
