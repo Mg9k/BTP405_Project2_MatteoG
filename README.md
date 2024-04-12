@@ -129,12 +129,12 @@ The above user stories, personas and scenarios have been added as a comment on t
 
 A new GitHub milestone has been created to act as the product backlog. The above user stories are documented within the backlog. Their respective solutions to their scenario problems have been added to their descriptions.
 
-[backlog.jpg]
+![Product Backlog](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/4c9fa5ec-9029-4b9c-bcf7-53e254e87305)
 _See Issues -> Milestones -> Product Backlog_
 
 ### Issue 3: Set up MongoDB Database
 
-![image](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/cfc1a216-42c7-403e-b5e9-c0f9cb25f2a1)
+![Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/cfc1a216-42c7-403e-b5e9-c0f9cb25f2a1)
 
 A database named ‘TableMaster’ has been set up on MongoDB with two collections. One collection is for the end-users of the program, and the other is for the tables of the restaurant.
 
