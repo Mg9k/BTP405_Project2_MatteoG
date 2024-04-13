@@ -224,7 +224,7 @@ _See Issues -> Milestones -> Sprint 3_
 
 ### Issue 3: Create Login and Account Creation Functionality with JWT
 
-![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/5b6a9963-73f1-4f5e-aa5f-b058dbaa053d)
+![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/9505f09c-9368-4653-8a2b-177119f36e47)
 
 ### Sprint 3 Completion
 
@@ -232,5 +232,11 @@ _See Issues -> Milestones -> Sprint 3_
 
 ## Sprint 4: Implement Front-End Pages
 
+_See Issues -> Milestones -> Sprint 4_
 
 ## Sprint 5: Automated Testing and Cloud Hosting
+
+_See Issues -> Milestones -> Sprint 5_
+
+![Sprint 5 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/450ed187-d86c-4172-9cee-eb17002bd0c7)
+
