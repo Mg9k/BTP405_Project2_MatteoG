@@ -157,7 +157,7 @@ _Staff_
 ![Sample User 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/7af418d4-c5bf-4928-8f40-cd940d386ac2)
 
 Notes:
-* Both users have a 'login' object with the parameters that will be used as their login information.
+* Both users have a 'login' object with the parameters that will be used as their login information. These are to be used in a future sprint that focuses on account security (passwords to get encryption, phone number and/or email to be used for 2FA).
 * Customers have object arrays for upcoming reservations for active booking purposes. There are also object arrays for past reservations for customer analytics purposes.
 * Upcoming/Previous reservation objects will have notes that customers may choose to add upon booking their reservation. Customers may enter preferences or anything else that they'd like to inform their waiting staff.
 * Upcoming/Previous reservation objects will have duration elements, which are two date values set to UTC time.
@@ -176,6 +176,19 @@ Notes:
 
 With the database set up with sample data in place, this issue can be closed as complete.
 
+![Sprint 1 Issue 3 Closed](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/57a1e17e-b1ee-4f70-ad0e-c27201631027)
+
+### Sprint 1 Completion
+
+With all Sprint 1 issues closed, the Sprint is marked as completed
+![Sprint 1 Complete](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/9caf53da-91ae-4252-a0d7-1592860d237b)
+
+### Sprint 1 Retrospective
+
+Working on this sprint gave me a much better idea of my next steps and how my program should look when it is complete. 
+Creating the product vision gave me some very useful clarity regarding its main functionality and what my program is meant to be as a whole.
+The user stories also gave me much needed info as well. Understanding each user's roles and needs were simple, but elaborating on them allowed me to see a much bigger picture, like how the program's booking system would work, how previous reservations would be archived and how staff would use admin permissions. The biggest understanding I've gotten from working on the sample users was how I needed a seperate MongoDB collection for the restaurant's tables.
+Similarly, making the MongoDB database also helped me realize what elements were needed to make the sample data templates, such as tables having a minimum and maximum seating capacity as opposed to a single capacity value, as well as tags.
 
 
 
