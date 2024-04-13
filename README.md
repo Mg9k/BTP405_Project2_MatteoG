@@ -196,7 +196,7 @@ Similarly, making the MongoDB database also helped me realize what elements were
 
 ## Sprint 2: Create Service for Basic API Features
 
-![Sprint 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/7097a713-c166-4200-8c7c-1aa246232253)
+![Sprint 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/6165e4a1-e5ef-42c8-b8f1-25d8f8ee17af)
 
 _See Issues -> Milestones -> Sprint 2_
 
@@ -207,6 +207,10 @@ _See Issues -> Milestones -> Sprint 2_
 ### Issue 2: Implement CRUD Operations
 
 ![Sprint 2 Issue 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/8fd78e7d-6e53-4c7a-9605-d4727e2a8800)
+
+### Issue 3: Send Notifications to Customers of Reservation Creation and Updates
+
+![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/b01fddd3-efea-4458-a369-ef12d855c439)
 
 ### Sprint 2 Completion
 
