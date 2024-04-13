@@ -230,7 +230,7 @@ _See Issues -> Milestones -> Sprint 3_
 
 ### Sprint 3 Retrospective
 
-## Sprint 4: 
+## Sprint 4: Implement Front-End Pages
 
 
 ## Sprint 5: Automated Testing and Cloud Hosting
