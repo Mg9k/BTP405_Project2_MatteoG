@@ -159,6 +159,7 @@ _Staff_
 Notes:
 * Both users have a 'login' object with the parameters that will be used as their login information. These are to be used in a future sprint that focuses on account security (passwords to get encryption, phone number and/or email to be used for 2FA).
 * Customers have object arrays for upcoming reservations for active booking purposes. There are also object arrays for past reservations for customer analytics purposes.
+* Reservation status can be either 'confirmed', 'waitlisted' or 'cancelled'.
 * Upcoming/Previous reservation objects will have notes that customers may choose to add upon booking their reservation. Customers may enter preferences or anything else that they'd like to inform their waiting staff.
 * Upcoming/Previous reservation objects will have duration elements, which are two date values set to UTC time.
 * Staff have little information stored in their database documents since they are admin users. 
