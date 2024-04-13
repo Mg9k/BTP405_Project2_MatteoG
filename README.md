@@ -1,6 +1,6 @@
 # BTP405 Project 2 - Matteo Grutta
 
-### **Youtube Video Link:** [ !!!Insert Link Here When Finished!!! ]
+### **Youtube Video Link**: https://youtu.be/Y_QzKfxyfro
 
 # Product Name: TableMaster
 
