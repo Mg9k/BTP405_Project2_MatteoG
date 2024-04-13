@@ -3,6 +3,8 @@
 
 Scrum is implemented through GitHub’s issues and milestones. They will be visible within this repository but screenshots will shown here as documentation.
 
+**Youtube Video Link:** [ !!!Insert Link Here When Finished!!! ]
+
 ## Sprint 1: Project Preparation
 ![Sprint 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/1f639b6e-5149-45c5-8eef-c454dba1a09b)
 
