@@ -248,7 +248,7 @@ _See Issues -> Milestones -> Sprint 4_
 
 ### Issue 3: Create a User Profile Page
 
-### Issue 4: Create a Table Editor for Admins
+### Issue 4: Create an Admin Interface
 
 ### Sprint 4 Completion
 
