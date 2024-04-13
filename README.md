@@ -216,7 +216,8 @@ _See Issues -> Milestones -> Sprint 2_
 _See Issues -> Milestones -> Sprint 3_
 
 ### Issue 1: Create a New Python Project and Install Dependencies
-![Sprint 3 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/77fc52d6-9d86-4e64-88f9-bd22bdb3c861)
+
+![Sprint 3 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/d69c2ccc-2347-4c20-a04c-90a8caf0f9aa)
 
 ### Issue 2: Add Password Encryption
 
@@ -224,7 +225,7 @@ _See Issues -> Milestones -> Sprint 3_
 
 ### Issue 3: Create Login and Account Creation Functionality with JWT
 
-![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/9505f09c-9368-4653-8a2b-177119f36e47)
+![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/5132dcea-dc3f-424a-ac86-deb95e320e31)
 
 ### Sprint 3 Completion
 
