@@ -199,7 +199,7 @@ _See Issues -> Milestones -> Sprint 2_
 
 ### Issue 1: Create a New Python Project and Connect MongoDB
 
-![Sprint 2 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/3654aacb-d460-4933-ac09-06ac1a344e35)
+![Sprint 2 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/71824be3-2210-456f-8498-f8ba06e7bc80)
 
 ### Issue 2: Implement CRUD Operations
 
@@ -209,5 +209,28 @@ _See Issues -> Milestones -> Sprint 2_
 
 ### Sprint 2 Retrospective
 
+## Sprint 3: Create Service for Login and Security
+
+![Sprint 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/880ee1c4-2cc8-498c-a9d2-1fb24ea16827)
+
+_See Issues -> Milestones -> Sprint 3_
+
+### Issue 1: Create a New Python Project and Install Dependencies
+![Sprint 3 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/77fc52d6-9d86-4e64-88f9-bd22bdb3c861)
+
+### Issue 2: Add Password Encryption
+
+![Sprint 3 Issue 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/12c43a7c-5904-490f-a59e-389210bebc3a)
+
+### Issue 3: Create Login and Account Creation Functionality with JWT
+
+![Sprint 3 Issue 3](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/5b6a9963-73f1-4f5e-aa5f-b058dbaa053d)
+
+### Sprint 3 Completion
+
+### Sprint 3 Retrospective
+
+## Sprint 4: 
 
 
+## Sprint 5: Automated Testing and Cloud Hosting
