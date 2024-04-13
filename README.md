@@ -191,5 +191,23 @@ Creating the product vision gave me some very useful clarity regarding its main 
 The user stories also gave me much needed info as well. Understanding each user's roles and needs were simple, but elaborating on them allowed me to see a much bigger picture, like how the program's booking system would work, how previous reservations would be archived and how staff would use admin permissions. The biggest understanding I've gotten from working on the sample users was how I needed a seperate MongoDB collection for the restaurant's tables.
 Similarly, making the MongoDB database also helped me realize what elements were needed to make the sample data templates, such as tables having a minimum and maximum seating capacity as opposed to a single capacity value, as well as tags.
 
+## Sprint 2: Create Service for Basic API Features
+
+![Sprint 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/7097a713-c166-4200-8c7c-1aa246232253)
+
+_See Issues -> Milestones -> Sprint 2_
+
+### Issue 1: Create a New Python Project and Connect MongoDB
+
+![Sprint 2 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/3654aacb-d460-4933-ac09-06ac1a344e35)
+
+### Issue 2: Implement CRUD Operations
+
+![Sprint 2 Issue 2](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/8fd78e7d-6e53-4c7a-9605-d4727e2a8800)
+
+### Sprint 2 Completion
+
+### Sprint 2 Retrospective
+
 
 
