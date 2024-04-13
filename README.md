@@ -238,5 +238,11 @@ _See Issues -> Milestones -> Sprint 4_
 
 _See Issues -> Milestones -> Sprint 5_
 
+### Issue 1: Add Unit Testing to All Services
+
 ![Sprint 5 Issue 1](https://github.com/Mg9k/BTP405_Project2_MatteoG/assets/123207493/450ed187-d86c-4172-9cee-eb17002bd0c7)
+
+### Issue 2: Implement Automated Testing to all Services
+
+### Issue 3: Deploy the App to a Cloud
 
