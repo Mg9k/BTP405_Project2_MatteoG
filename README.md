@@ -242,6 +242,18 @@ _See Issues -> Milestones -> Sprint 3_
 
 _See Issues -> Milestones -> Sprint 4_
 
+### Issue 1: Create a Login Page
+
+### Issue 2: Create a Booking Page
+
+### Issue 3: Create a User Profile Page
+
+### Issue 4: Create a Table Editor for Admins
+
+### Sprint 4 Completion
+
+### Sprint 4 Retrospective
+
 ## Sprint 5: Automated Testing and Cloud Hosting
 
 _See Issues -> Milestones -> Sprint 5_
